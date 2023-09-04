@@ -1,2 +1,2 @@
 #!/bin/bash
-tai -1 iacta >> iacta
+tai -n 1 iacta >> iacta
